@@ -1,0 +1,28 @@
+name: barefooters
+favicon: null
+layout_spectrum: 0.9400757825933397
+typography_spectrum: 0.861383328679949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.14741442748345435
+  lightness: 0.6786020288709551
+  saturation: 0.89547223970294
+  rhythmicContrast: 0.966990664601326
+purpose: []
